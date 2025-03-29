@@ -9,7 +9,7 @@ Information technology is everyone's business. With over 15 years of experience 
 [![HackTheBoxCTF](https://img.shields.io/badge/HackTheBoxCTF-%23000000?style=flat&logo=hackthebox&logoColor=lawngreen)](https://ctf.hackthebox.com/user/profile/42992)
 [![SecureFlag](https://img.shields.io/badge/SecureFlag-%23000000?style=flat&logo=owasp&logoColor=blue)](https://secureflag.owasp.org/b?f12c4b83-531a-46bd-85c9-c4d01474f848)
 [![Hackerrank](https://img.shields.io/badge/HackerRank-%23000000?style=flat&logo=hackerrank&logoColor=teal)](https://www.hackerrank.com/profile/sebastian148)
-[![CTFTime](https://img.shields.io/badge/PicoCTF-%23000000?style=flat&logo=picoctf&logoColor=orange)](https://ctftime.org/user/106592))
+[![CTFTime](https://img.shields.io/badge/PicoCTF-%23000000?style=flat&logo=picoctf&logoColor=orange)](https://ctftime.org/user/106592)
 [![PicoCTF](https://img.shields.io/badge/CTFTime-%23000000?style=flat&logo=ctftime&logoColor=crimson)](https://play.picoctf.org/users/Seebusch)
 [![Hackverse](https://img.shields.io/badge/Hackverse-%23000000?style=flat&logo=eccouncil&logoColor=crimson)](https://leaderboard.hackerverse.com/scores?id=cybh%3D$kgueMzYzOQ%3D%3D)
 [![WeChall](https://img.shields.io/badge/WeChall-%23000000?style=flat&logo=wechall&logoColor=purple)](https://www.wechall.net/profile/Seebusch)
