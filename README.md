@@ -8,7 +8,8 @@ Information technology is everyone's business. With over 15 years of experience 
 ![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23000000?style=flat&logo=stackoverflow&logoColor=orange)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=flat&logo=tryhackme&logoColor=crimson)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=flat&logo=hackthebox&logoColor=lawngreen)
-![HackTheBox](https://img.shields.io/badge/SecureFlag-%23000000?style=flat&logo=owasp&logoColor=blue)
+![SecureFlag](https://img.shields.io/badge/SecureFlag-%23000000?style=flat&logo=owasp&logoColor=blue)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-%23000000?style=flat&logo=pico&logoColor=red)](https://play.picoctf.org/users/Seebusch)
 
 ## **Certifications**
 
