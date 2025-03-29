@@ -7,16 +7,17 @@
 - BMD NTCS Expert
 
 ## **Certifications**
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23000000?style=flat&logo=stackoverflow&logoColor=orange)
 ![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=flat&logo=tryhackme&logoColor=crimson)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=flat&logo=hackthebox&logoColor=lawngreen)
-
+![BMDNTCS](https://img.shields.io/badge/BMDNTCS-%23000000?style=flat&logo=bmd&logoColor=orange)
 ---
 
 ## **About Me**
 Information technology is everyone's business. With over 15 years of experience in cybersecurity, IT strategy, and process optimization, I help organizations navigate the digital landscape with confidence.
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23000000?style=flat&logo=stackoverflow&logoColor=orange)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=flat&logo=tryhackme&logoColor=crimson)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=flat&logo=hackthebox&logoColor=lawngreen)
 
 ---
 
