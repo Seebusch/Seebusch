@@ -29,12 +29,7 @@ Information technology is everyone's business. With over 15 years of experience 
 - IT Governance & Compliance (DSGVO, ISO 27001)
 - Cloud Security & Virtualization
 - Sustainability through Technology
-
-## **Key Skills**
-
-- **Technical Expertise:** Cybersecurity Incident Response, Business Analysis, IT Consultancy, Virtualization, Management, Information Security Management System (ISMS), presentations, Security Management, Business Leadership, Data Protection, SIEM, Network Architecture, Security Controls, Security Measures, Cybersecurity.
-- **Core Competencies:** IT Governance & Risk Management, Cybersecurity Awareness, SIEM, Policies & Procedures, Process Automation.
-
+  
 <!--
 **Seebusch/Seebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
