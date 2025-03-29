@@ -12,7 +12,7 @@ Information technology is everyone's business. With over 15 years of experience 
 
 ## **Certifications**
 ![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)
-![BMDNTCS](https://img.shields.io/badge/BMDNTCS-%23000000?style=flat&logo=bmd&logoColor=orange)
+![BMDNTCS](https://img.shields.io/badge/BMDNTCS-%23000000?style=flat&logo=bmdntcs&logoColor=orange)
 ---
 
 ### **Professional Expertise**
