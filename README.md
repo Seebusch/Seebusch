@@ -1,5 +1,3 @@
-# Sebastian 'Seebusch' Szczepaniak
-
 ## **About Me**
 
 Information technology is everyone's business. With over 15 years of experience in cybersecurity, IT strategy, and process optimization, I help organizations navigate the digital landscape with confidence.
