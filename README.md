@@ -14,7 +14,7 @@ Information technology is everyone's business. With over 15 years of experience 
 ![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)
 ![BMDNTCS](https://img.shields.io/badge/BMD-%23000000?style=flat&logo=bmd&logoColor=orange)
 
-### **Professional Expertise**
+## **Professional Expertise**
 
 - CISSP
 - BMD NTCS Expert
@@ -25,7 +25,7 @@ Information technology is everyone's business. With over 15 years of experience 
 - Cloud Security & Virtualization
 - Sustainability through Technology
 
-### **Key Skills**
+## **Key Skills**
 
 - **Technical Expertise:** Cybersecurity Incident Response, Business Analysis, IT Consultancy, Virtualization, Management, Information Security Management System (ISMS), presentations, Security Management, Business Leadership, Data Protection, SIEM, Network Architecture, Security Controls, Security Measures, Cybersecurity.
 - **Core Competencies:** IT Governance & Risk Management, Cybersecurity Awareness, SIEM, Policies & Procedures, Process Automation.
