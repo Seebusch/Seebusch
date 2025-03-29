@@ -1,7 +1,5 @@
 ## Sebastian 'Seebusch' Szczepaniak
 
-### Sebastian 'Seebusch' Szczepaniak
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Seebusch)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23000000?style=flat&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/30098131/seebusch)
 [![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)](https://isc2.com/profile/X)
