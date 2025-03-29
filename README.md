@@ -1,8 +1,4 @@
 # Sebastian 'Seebusch' Szczepaniak
-- Chief Information Officer (CIO)
-- Chief Information Security Officer (CISO)
-- Process Optimizer
-- CISSP
 - Cybersecurity Expert
 - BMD NTCS Expert
 
