@@ -28,28 +28,6 @@ Information technology is everyone's business. With over 15 years of experience 
 
 ---
 
-### **Work Experience**
-
-#### **Headway Steuerberatung GmbH**  
-*Chief Information Officer & Chief Information Security Officer*  
-*November 2019 – Present*  
-- Spearhead IT strategy and cybersecurity initiatives for a leading tax consulting firm.  
-- Implement BMD NTCS solutions for accounting, payroll, and end-year reports.  
-- Optimize digital workflows to improve efficiency and compliance.
-
-#### **Accountant & CIO/CISO**  
-*September 2017 – November 2019*  
-- Concurrently manage IT infrastructure and cybersecurity programs.  
-- Migrate bookkeeping systems to BMD NTCS for seamless integration.  
-- Lead digitalization efforts for financial reporting processes.
-
-#### **Accountant & IT Staff**  
-*January 2015 – September 2017*  
-- Provide technical support and IT strategy recommendations.  
-- Assist with cybersecurity assessments and incident response.
-
----
-
 ### **Key Skills**
 - **Technical Expertise:** Cybersecurity Incident Response, Business Analysis, IT Consultancy, Virtualization, Management, Information Security Management System (ISMS), presentations, Security Management, Business Leadership, Data Protection, SIEM, Network Architecture, Security Controls, Security Measures, Cybersecurity.
 - **Core Competencies:** IT Governance & Risk Management, Cybersecurity Awareness, SIEM, Policies & Procedures, Process Automation.
