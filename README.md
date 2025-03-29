@@ -1,11 +1,4 @@
 # Sebastian 'Seebusch' Szczepaniak
-- Cybersecurity Expert
-- BMD NTCS Expert
-
-## **Certifications**
-![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)
-![BMDNTCS](https://img.shields.io/badge/BMDNTCS-%23000000?style=flat&logo=bmd&logoColor=orange)
----
 
 ## **About Me**
 Information technology is everyone's business. With over 15 years of experience in cybersecurity, IT strategy, and process optimization, I help organizations navigate the digital landscape with confidence.
@@ -17,11 +10,17 @@ Information technology is everyone's business. With over 15 years of experience 
 
 ---
 
+## **Certifications**
+![CISSP](https://img.shields.io/badge/CISSP-%23000000?style=flat&logo=isc2&logoColor=darkgreen)
+![BMDNTCS](https://img.shields.io/badge/BMDNTCS-%23000000?style=flat&logo=bmd&logoColor=orange)
+---
+
 ### **Professional Expertise**
+- CISSP
+- BMD NTCS Expert
 - Cybersecurity Strategy & Implementation
 - Incident Response & Threat Management
 - Process Optimization for Digital Transformation
-- BMD NTCS Expertise
 - IT Governance & Compliance (DSGVO, ISO 27001)
 - Cloud Security & Virtualization
 - Sustainability through Technology
