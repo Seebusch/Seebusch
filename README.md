@@ -1,6 +1,4 @@
 # Sebastian 'Seebusch' Szczepaniak
-
-## **Titles**
 - Chief Information Officer (CIO)
 - Chief Information Security Officer (CISO)
 - Process Optimizer
