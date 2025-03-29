@@ -1,7 +1,5 @@
 ## Sebastian 'Seebusch' Szczepaniak
 
-<img src="https://www.seebusch.at/wp-content/uploads/2021/04/AVATAR-257x300.png" alt="Seebusch" width="100"/>
-
 ### Sebastian 'Seebusch' Szczepaniak
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Seebusch)
