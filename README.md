@@ -27,7 +27,7 @@ Information technology is everyone's business. With over 15 years of experience 
 - Cybersecurity Strategy & Implementation
 - Incident Response & Threat Management
 - Process Optimization for Digital Transformation
-- IT Governance & Compliance (DSGVO, ISO 27001)
+- IT Governance & Compliance (GDPR, ISO 27001)
 - Cloud Security & Virtualization
 - Sustainability through Technology
   
