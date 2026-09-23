@@ -14,6 +14,7 @@ Information technology is everyone's business. With over 15 years of experience 
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-%23000000?style=flat&logo=picoctf&logoColor=crimson)](https://play.picoctf.org/users/Seebusch)
 [![Hackverse](https://img.shields.io/badge/Hackverse-%23000000?style=flat&logo=ecc&logoColor=crimson)](https://leaderboard.hackerverse.com/scores?id=cybh%3D$kgueMzYzOQ%3D%3D)
 [![WeChall](https://img.shields.io/badge/WeChall-%23000000?style=flat&logo=wechall&logoColor=purple)](https://www.wechall.net/profile/Seebusch)
+[![BootDev](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/EDMggme-800x370.png)](https://www.boot.dev/u/seebusch)
 
 ## **Certifications**
 
