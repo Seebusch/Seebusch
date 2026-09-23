@@ -3,6 +3,7 @@
 Information technology is everyone's business. With over 15 years of experience in cybersecurity, IT strategy, and process optimization, I help organizations navigate the digital landscape with confidence.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Seebusch)
+<a href="https://www.boot.dev/u/seebusch"><img src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/EDMggme-800x370.png" height="20" alt="BootDev"></a>
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23000000?style=flat&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/30098131/seebusch)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=flat&logo=tryhackme&logoColor=crimson)](https://tryhackme.com/p/Seebusch)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=flat&logo=hackthebox&logoColor=lawngreen)](https://app.hackthebox.com/profile/357328)
@@ -14,7 +15,7 @@ Information technology is everyone's business. With over 15 years of experience 
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-%23000000?style=flat&logo=picoctf&logoColor=crimson)](https://play.picoctf.org/users/Seebusch)
 [![Hackverse](https://img.shields.io/badge/Hackverse-%23000000?style=flat&logo=ecc&logoColor=crimson)](https://leaderboard.hackerverse.com/scores?id=cybh%3D$kgueMzYzOQ%3D%3D)
 [![WeChall](https://img.shields.io/badge/WeChall-%23000000?style=flat&logo=wechall&logoColor=purple)](https://www.wechall.net/profile/Seebusch)
-<a href="https://www.boot.dev/u/seebusch"><img src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/EDMggme-800x370.png" height="20" alt="BootDev"></a>
+
 
 ## **Certifications**
 
