@@ -25,13 +25,14 @@ Information technology is everyone's business. With over 15 years of experience 
 ## **Professional Expertise**
 
 - CISSP
-- BMD NTCS Expert
-- Cybersecurity Strategy & Implementation
-- Incident Response & Threat Management
-- Process Optimization for Digital Transformation
-- IT Governance & Compliance (GDPR, ISO 27001)
-- Cloud Security & Virtualization
-- Sustainability through Technology
+- BMD NTCS expert
+- Cybersecurity strategy & implementation
+- Incident response & threat management
+- IT infrastructure design & administration
+- Process optimization for digital transformation
+- IT governance & compliance (GDPR, ISO 27001)
+- Cloud security & virtualization
+- Sustainability through technology
   
 <!--
 **Seebusch/Seebusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
